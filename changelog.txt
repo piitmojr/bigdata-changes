@@ -12,3 +12,4 @@ bigdata-changes: Update changelog 2023-11-10
 bigdata-changes: Update changelog 2023-11-11
 bigdata-changes: Update changelog 2023-11-12
 bigdata-changes: Update changelog 2023-11-13
+bigdata-changes: Update changelog 2023-11-14
