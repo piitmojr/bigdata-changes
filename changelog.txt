@@ -88,3 +88,4 @@ bigdata-changes: Update changelog 2024-01-25
 bigdata-changes: Update changelog 2024-01-26
 bigdata-changes: Update changelog 2024-01-27
 bigdata-changes: Update changelog 2024-01-28
+bigdata-changes: Update changelog 2024-01-29
