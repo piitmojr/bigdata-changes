@@ -99,3 +99,4 @@ bigdata-changes: Update changelog 2024-02-05
 bigdata-changes: Update changelog 2024-02-06
 bigdata-changes: Update changelog 2024-02-07
 bigdata-changes: Update changelog 2024-02-08
+bigdata-changes: Update changelog 2024-02-09
